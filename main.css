@@ -1,0 +1,23 @@
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+ 
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+
+  body {
+   
+    font-size: 67.5%;
+    font-family: Tahoma, Geneva, sans-serif;
+    background:  url(assets/background_photo.jpg) no-repeat fixed top center;
+    padding: 0;
+    margin: 0;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+}
