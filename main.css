@@ -4,11 +4,27 @@
     border-radius: 0;
   }
  
-  footer {
+  .footer {
     background-color: #f2f2f2;
     padding: 25px;
   }
 
+ .jumbotron {
+   background-color: red;
+   font-family: 'Caveat';
+ }
+
+ .jumbotron h1{
+   font-size: 80px;
+ }
+
+ .jumbotron p{
+   font-size: 40px;
+ }
+ 
+ body h3{
+   font-family: 'Caveat';
+ }
   body {
    
     font-size: 67.5%;
