@@ -5,7 +5,7 @@
   }
  
   .footer {
-    background-color: #f2f2f2;
+    color: #f2f2f2;
     padding: 25px;
   }
 
@@ -22,13 +22,26 @@
    font-size: 40px;
  }
  
+.transbox{
+  margin-left: 70px;
+  margin-right: 70px;
+  box-shadow: inset 100px 200px rgba(255, 255, 255, 0.2);
+}
+
+div.transbox p {
+  margin: 25%;
+  font-weight: bold;
+  color: #000000;
+}
+
+
  body h3{
    font-family: 'Caveat';
+   font-size: 40px;
  }
   body {
-   
-    font-size: 67.5%;
     font-family: Tahoma, Geneva, sans-serif;
+    color: black;
     background:  url(assets/background_photo.jpg) no-repeat fixed top center;
     padding: 0;
     margin: 0;
